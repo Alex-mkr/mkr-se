@@ -1,8 +1,12 @@
 "use strict";
 
-function highestRating(data) {}
+function highestRating(data) {
+  //! insert your code here
+}
 
-function mostRecommended(data) {}
+function mostRecommended(data) {
+  //! insert your code here
+}
 
 const allMovies = [
   {

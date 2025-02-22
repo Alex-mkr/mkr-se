@@ -43,11 +43,11 @@
 
   | Case | Command                 | Max Score |
   | ---- | ----------------------- | --------- |
-  | 1    | `npm test -- 1.test.js` | 20        |
-  | 2    | `npm test -- 2.test.js` | 20        |
-  | 3    | `npm test -- 3.test.js` | 20        |
-  | 4    | `npm test -- 4.test.js` | 20        |
-  | 5    | `npm test -- 5.test.js` | 20        |
+  | 01   | `npm test -- 1.test.js` | 20        |
+  | 02   | `npm test -- 2.test.js` | 20        |
+  | 03   | `npm test -- 3.test.js` | 20        |
+  | 04   | `npm test -- 4.test.js` | 20        |
+  | 05   | `npm test -- 5.test.js` | 20        |
   |**ALL**| `npm run test`      | **100**      |
 
   #### TOTAL SCORE: 100
