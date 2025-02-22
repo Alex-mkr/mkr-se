@@ -2,10 +2,13 @@
 
 ## RULES
 
-1. Complete this test by yourself without any assistance from tools, AI, or humans. Any form of cheating will result in failure of this phase.
-1. Clone this repository and create new branch with format of: **full_name-position_name**
-1. Work on your code in the provided .js files. **Do not create more files**.
-1. **IMPORTANT: Do not use forbidden built-in functions**
+> Complete this test by yourself without any assistance from tools, AI, or humans. Any form of cheating will result in failure of this phase.
+
+> Clone this repository and create new branch with format of: **full_name-position_name**
+
+> Work on your code in the provided .js files. **Do not create more files**.
+
+> **IMPORTANT: Do not use forbidden built-in functions**
 
 #### FORBIDDEN BUILT-IN FUNCTIONS
 - .foreach()
@@ -43,11 +46,23 @@
 
   | Case | Command                 | Max Score |
   | ---- | ----------------------- | --------- |
-  | 01   | `npm test -- 1.test.js` | 20        |
-  | 02   | `npm test -- 2.test.js` | 20        |
-  | 03   | `npm test -- 3.test.js` | 20        |
-  | 04   | `npm test -- 4.test.js` | 20        |
-  | 05   | `npm test -- 5.test.js` | 20        |
-  |**ALL**| `npm run test`      | **100**      |
+  | 01   | `npm test -- 1.test.js` |   4       |
+  | 02   | `npm test -- 2.test.js` |   4       |
+  | 03   | `npm test -- 3.test.js` |   4       |
+  | 04   | `npm test -- 4.test.js` |   4       |
+  | 05   | `npm test -- 5.test.js` |   4       |
+  | 06   | `npm test -- 6.test.js` |   4       |
+  |**ALL**| `npm run test`      | **24**      |
 
-  #### TOTAL SCORE: 100
+  #### FINAL SCORE:  {qty_success} / 24 * 100
+
+## SUBMISSION
+> **commit and push your code to your branch by executing:**
+>- git add .
+>- git commit -m "done"
+>- git push origin *{branch_name}*
+
+> Open github and create a pull request from your branch to branch **"submit"**
+
+> Select **Alex-mkr** as reviewer and select yourself as Assignee
+
